@@ -1,4 +1,4 @@
-module authproxy
+module simpleproxy
 
 go 1.12
 
